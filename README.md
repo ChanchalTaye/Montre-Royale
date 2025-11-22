@@ -20,12 +20,8 @@ CSS — Styling & responsiveness
 
 JavaScript — UI interactions
 
-🌐 Live Demo
-
+#🌐 Live Demo
 https://chanchaltaye.github.io/Montre-Royale/
-
-📬 Contact
-
-Email: rohittaye15@gmail.com
-
+#📬 Contact
+Email: chanchal10@gmail.com
 GitHub: https://github.com/chanchaltaye
