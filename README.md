@@ -5,14 +5,19 @@ Montre Royale is a modern and responsive watch shopping website built with HTML,
 🚀 Features
 
 Premium product cards & smooth hover effects
+
 Fully responsive design (mobile → desktop)
+
 Modern black–gold aesthetic
+
 Simple and interactive user experience
 
 🛠️ Tech Stack
 
 HTML — Structure
+
 CSS — Styling & responsiveness
+
 JavaScript — UI interactions
 
 🌐 Live Demo
